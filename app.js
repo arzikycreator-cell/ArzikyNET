@@ -5,6 +5,6 @@ if ('serviceWorker' in navigator) {
 setTimeout(function(){
 
 window.location.replace(
-"https://script.google.com/macros/s/AKfycbzwspf0DNL02kFAsPv1H4AJjf8yV29FRR7crcYuW_dgYI2pRGKhKHColOn0kiBmFKnj9A/exec");
+"https://script.google.com/macros/s/AKfycbx4taE6YbGag19efprzwGeBl4DGE9LMCmW55jt8f0ABGt7PfOk858lmYFrDtpgT178pMQ/exec");
 
 },2500);
